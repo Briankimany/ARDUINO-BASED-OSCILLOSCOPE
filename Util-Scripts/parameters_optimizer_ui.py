@@ -8,7 +8,7 @@ import json
 import os
 from datetime import datetime
 
-from current_design_v2 import  CurrentMeasurementDesign ,DesignSweep
+from parameters_optimizer_v2 import  CurrentMeasurementDesign ,DesignSweep
 from ui_utils import get_n_channels_spec ,get_overlap_spec ,get_pin1_spec,get_r_spec,get_rmes_spec,get_vos_spec ,SweepPlotter
 
 
